@@ -5,7 +5,7 @@ url: "https://supurekku.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Supurekku
+  title: Supurekku Community
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
