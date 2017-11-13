@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/supurekku"
+baseurl: ""
 url: "https://supurekku.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
