@@ -9,7 +9,7 @@ theme_settings:
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website for Supurekku open source community" # used by search engines
+  description: "Website for Supurekku open source community" # used by search engines
 
   # Header and footer text
   header_text: >
