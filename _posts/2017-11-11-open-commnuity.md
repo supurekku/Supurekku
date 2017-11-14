@@ -3,9 +3,9 @@ layout: post
 title: Supurekku Commnunity Sets Up Now
 tags: [Announcement, Markdown]
 ---
-Supurekku Commnunity sets up in 2017-11-11, it is technnical community for friends. The core spirit of this community is like:
+Supurekku Commnunity sets up in 2017-11-11, it is a technnical community for friends. The core spirit of this community is like:
 
-* Friendship
+* **Friendship**
 * Innovative
 * Cooperative
 
