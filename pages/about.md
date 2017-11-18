@@ -5,8 +5,4 @@ permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Suppurekku Community is an open source commnunity from GZ CN, members are mainly collegues in real life, so this community is also a place for friendship. Hope everyone here can join activities of this community actively.

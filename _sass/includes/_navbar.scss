@@ -66,6 +66,17 @@
 .clear {
     *zoom: 1;
 
+    li {
+        border-radius: 4px;
+        background: rgba(212, 212, 212, .5);
+        padding: 0 .5rem;
+    }
+
+    li:hover {
+        box-shadow: 0 0 5px black;
+        transition: box-shadow .5s;
+    }
+
     &:after {
         clear: both;
     }
